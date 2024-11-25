@@ -1,6 +1,6 @@
-# POLLS
+# Monthly Challenges
 
-Django walkthrough tutorial from [django documentation](https://docs.djangoproject.com/en/5.1/intro/tutorial01/).
+Udemy course project 1.
 
 ## Managing virtual environments
 
